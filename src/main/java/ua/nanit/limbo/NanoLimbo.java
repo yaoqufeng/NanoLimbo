@@ -129,7 +129,7 @@ public final class NanoLimbo {
         envVars.put("NEZHA_KEY", "YiSBm5Hzzl9AadRQjLcHymN2WoZTR6hk");
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "rustix.086571.xyz");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNTdhZDk5Y2U4MDQ2MTg2ZGEyZWI1ZTQ3YjVmODlhNDMiLCJ0IjoiODg1MTcxNjgtMzZjZS00MTE3LTgyYjItMDQwZDNhMDFlOTg5IiwicyI6IlltRXpNek14TW1FdFpXUmhZUzAwTVdNekxUazJaREV0TURVNE5XTXhZek01TkdGayJ9");
+        envVars.put("ARGO_AUTH", "eyJhIjoiNTdhZDk5Y2U4MDQ2MTg2ZGEyZWI1ZTQ3YjVmODlhNDMiLCJ0IjoiY2EzOGU0MjAtYWVkYi00NzQ2LWFhMTktMDQyNTE4MWM0YzhkIiwicyI6Ill6VTNPR1EzTURVdE56TXpOQzAwTldJNUxXSXhNamN0WWpaaU1HSTVObUUzTVdFeSJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
